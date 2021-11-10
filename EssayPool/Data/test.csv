@@ -1,0 +1,697 @@
+,Words,Meanings,Trends
+0,abdicate,"to give up, often in a formal manner",20.0
+1,aberrant,unusual,73.0
+2,abeyance,temporary suspension,61.0
+3,abjure,"to give up, often in a formal manner",42.0
+4,abstruse,hard to understand,62.0
+5,accretion,an increase,43.0
+6,acerbic,sour; harsh,68.0
+7,acidulous,sour; sharp,54.0
+8,acme,highest point,73.0
+9,acumen,good judgment,84.0
+10,adroit,"highly skilled, especially with one's hands",72.0
+11,aerie,a nest; a home high on a mountain,61.0
+12,aesthetic,relating to beauty,84.0
+13,affable,friendly,71.0
+14,affected,fake; phony,50.0
+15,aggrandize,increase in size,60.0
+16,alacrity,liveliness and eagerness,67.0
+17,alchemy,magical power; process of turning base metals into gold,61.0
+18,amalgamation,a combination,36.0
+19,ameliorate,to make better,72.0
+20,amenable,agreeable,78.0
+21,amiable,friendly,84.0
+22,amortize,to eliminate debt by making payments,60.0
+23,amulet,a magical charm to ward off evil,83.0
+24,anachronistic,out of chronological order,55.0
+25,analgesic,capable of relieving pain,79.0
+26,anodyne,something that relieves pain,50.0
+27,anthropocentrism,theory that regards humans as the central element of the universe,52.0
+28,antipathy,strong dislike,75.0
+29,apathy,an absence of emotion or enthusiasm,75.0
+30,apocryphal,fake; untrue,75.0
+31,apostate,person who abandons their religion or cause,64.0
+32,approbation,approval,64.0
+33,archaic,so extremely old as seeming to belong to an earlier period,82.0
+34,ardor,intense passion,90.0
+35,arrogate,to claim without rights,53.0
+36,ascertain,to make certain,71.0
+37,ascetic,a person who practices self-denial as a spiritual discipline,83.0
+38,assail,to attack,62.0
+39,assiduous,constant and attentive,70.0
+40,assuage,to relieve or ease,76.0
+41,attenuate,to weaken,70.0
+42,audacious,bold and fearless,82.0
+43,augment,to enlarge or increase,85.0
+44,augury,divine prediction,66.0
+45,august,noble and dignified,17.0
+46,auspicious,favorable; fortunate,75.0
+47,austere,1. strict; disciplined; serious 2. simple; undecorated,62.0
+48,autonomy,independence,74.0
+49,avarice,extreme greed for material wealth,68.0
+50,avuncular,resembling an uncle in kindness or indulgence,58.0
+51,axiom,principle or rule,74.0
+52,banal,repeated too often; overfamiliar through overuse,90.0
+53,belfry,a bell tower,78.0
+54,benevolent,charitable; kind,80.0
+55,bevy,a large group,64.0
+56,bifurcate,to divide into two branches,23.0
+57,bilk,to cheat or swindle,87.0
+58,blight,any factor that causes decay or deterioration,52.0
+59,blithe,cheerful,74.0
+60,bombast,pompous or pretentious talk or writing,43.0
+61,bonhomie,friendliness,40.0
+62,boor,"a person who is rude, clumsy, and lacking social manners",79.0
+63,bromide,a common saying,77.0
+64,bucolic,relating to country life; rural,57.0
+65,burgeon,to flourish,79.0
+66,burnish,to polish,73.0
+67,byzantine,highly complex or intricate,73.0
+68,cabal,a secret group of plotters or schemers,38.0
+69,cacophony,"harsh, jarring sound",76.0
+70,cajole,"to influence by gentle urging, caressing, or flattering",68.0
+71,callous,insensitive; emotionally hardened,83.0
+72,calumny,a false statement intended to harm someone's reputation,47.0
+73,canard,false story or rumor,43.0
+74,canonical,authorized or accepted,83.0
+75,cantankerous,ill-tempered and unwilling to cooperate,50.0
+76,capricious,apt to change suddenly,56.0
+77,cartographer,a person who makes maps,52.0
+78,castigate,to criticize or punish severely,69.0
+79,cataclysm,a violent upheaval,56.0
+80,cathartic,inducing a release of tense emotions,78.0
+81,catholic,universal; liberal,60.0
+82,caustic,burning or stinging,56.0
+83,cavalier,a man who is chivalrous and gallant,58.0
+84,censure,strong disapproval,41.0
+85,charlatan,a person who falsely claims to possess skills or knowledge; an imposter,66.0
+86,chary,cautious; timid; choosy,85.0
+87,chicanery,the use of tricks to deceive someone,45.0
+88,churlish,rude and vulgar,56.0
+89,circumlocution,an indirect way of expressing something,66.0
+90,circumscribed,restricted,63.0
+91,circumspect,cautious; discreet,61.0
+92,clandestine,secret,78.0
+93,cloying,wearying through excess,75.0
+94,coalesce,to blend into one,90.0
+95,coffer,a box for storing valuables; funds,81.0
+96,cogent,convincing; telling,76.0
+97,collusion,a secret agreement; conspiracy,19.0
+98,conciliate,to win over; to make peace,63.0
+99,concomitant,existing or occurring at the same time,79.0
+100,conflagaration,a destructive fire,23.0
+101,conspicuous,obvious,80.0
+102,consummate,perfect and complete,84.0
+103,contrite,feeling guilty and remorseful,59.0
+104,contumacious,willfully disobedient,23.0
+105,convoluted,complicated,73.0
+106,corpulent,excessively fat,62.0
+107,corroborate,to confirm or support with evidence,68.0
+108,cosset,to pamper,55.0
+109,coterie,an exclusive group of people; a clique,62.0
+110,craven,cowardly,69.0
+111,crescendo,peak of growth,90.0
+112,culpable,worthy of blame,44.0
+113,cumbersome,"clumsy, awkward, and heavy",76.0
+114,cupidity,excessive greed,28.0
+115,curmudgeon,"cranky, difficult person",75.0
+116,cynical,distrusting and pessimistic,87.0
+117,dalliance,the deliberate act of delaying and playing instead of working,50.0
+118,daunt,to cause to lose courage,67.0
+119,dearth,a lack in supply,74.0
+120,debunk,to prove untrue,75.0
+121,debutante,a young woman making her debut into society,81.0
+122,declivity,a downward slope,58.0
+123,decourous,proper and dignified,32.0
+124,deject,to lower someone's spirits; make downhearted,56.0
+125,deleterious,harmful,73.0
+126,delineate,to outline,73.0
+127,demagogue,a political leader who seeks support by appealing to popular passions and prejudices,38.0
+128,demarcate,"to set, mark, or draw the boundaries of something",37.0
+129,demur,to object,74.0
+130,denigrate,to damage the reputation of,57.0
+131,derelict,"a person without a home, job, or property",70.0
+132,deride,to ridicule,63.0
+133,derivative,something that came from an original,60.0
+134,desiccate,to dry up,59.0
+135,despoiler,a person who steals goods,33.0
+136,despot,a ruler with complete power,64.0
+137,destitute,"completely wanting or lacking (usually money, food, and shelter)",71.0
+138,desultory,disconnected and random,61.0
+139,diaphanous,sheer; nearly translucent,34.0
+140,diatribe,bitter criticism; verbal attack,28.0
+141,dictum,a formal statement,81.0
+142,didactic,educational,71.0
+143,diffident,shy; reserved,65.0
+144,dilatory,intending to delay,59.0
+145,dilettante,a person who engages in an activity (such as art) without serious intentions or inquiry,60.0
+146,dirge,a funeral song,82.0
+147,disabuse,to free someone from false ideas,59.0
+148,discern,to perceive or understand with sight or other senses,77.0
+149,disdain,a lack of respect accompanied by a feeling of intense dislike,79.0
+150,disenfranchise,to deprive of voting rights,54.0
+151,disillusion,to free from false beliefs,63.0
+152,disingenuous,insincere,71.0
+153,disparage,to belittle or criticize,71.0
+154,disparate,different and distinct,79.0
+155,dissembler,a person who conceals his real feelings by professing false beliefs,33.0
+156,disseminate,to spread widely,79.0
+157,dissonance,"harsh, jarring sound",80.0
+158,distaff,the female part of a family,43.0
+159,dither,to be indecisive,61.0
+160,diurnal,daily; daytime,65.0
+161,divert,to turn away from a course,87.0
+162,divine,to predict using supernatural means,79.0
+163,doctrinaire,impractical; insistent about one's own theory,22.0
+164,dogmatic,characterized by assertion of unproved or unprovable princples,75.0
+165,draconian,harsh and severe,63.0
+166,droll,amusing; comical,82.0
+167,dubious,doubtful; questionable,66.0
+168,dupe,to deceive,90.0
+169,dyspeptic,irritable and gloomy,55.0
+170,earnest,serious; sincere,29.0
+171,ebullient,extremely excited or enthusiastic,57.0
+172,eclectic,made up of choices from diverse sources,51.0
+173,edify,to benefit by instruction,76.0
+174,efficacious,effective,65.0
+175,effigy,a representation of someone,29.0
+176,effrontery,shameless boldness,51.0
+177,effusive,excessive enthusiasm or emotion,54.0
+178,egalitarian,characterized by the belief in equal rights for all people,77.0
+179,egregious,outrageously bad or offensive,53.0
+180,elegy,a sad poem or song,74.0
+181,elicit,to call or bring out,73.0
+182,eloquent,expressing oneself powerfully and effectively,88.0
+183,elucidate,to make clear by explanation,70.0
+184,embroil,to bring into an argument or negative situation,60.0
+185,eminent,distinguished and prominent,77.0
+186,emissary,a person sent on a mission to represent the interest of someone else,66.0
+187,emollient,"that which has a softening or soothing effect, especially to the skin",71.0
+188,empirical,resulting from an experiment,63.0
+189,emulate,to imitate in order to match or excel,86.0
+190,encomium,high praise,50.0
+191,endemic,natural to a local area,78.0
+192,enervated,lacking strength or vigor,46.0
+193,engender,to produce,80.0
+194,enigma,a puzzle,83.0
+195,ennui,boredom,56.0
+196,enumerate,to count; to name one by one,80.0
+197,ephemeral,lasting a very short time,77.0
+198,epicure,"a person with refined tastes, particularly of food and wine",84.0
+199,epistolary,relating to letters,43.0
+200,equanimity,steadiness of mind under stress,55.0
+201,equivocal,uncertain; open to multiple interpretations,82.0
+202,ersatz,artificial; serving to substitute,88.0
+203,erudition,knowledge gained from study,72.0
+204,eschew,to avoid; to shun,70.0
+205,esoteric,intended for a select group of people; secret or confidential,89.0
+206,espouse,to adopt or marry (such as an idea or cause),48.0
+207,ethos,the spirit or attitude of a group,77.0
+208,eulogy,a formal expression of praise (often delivered at funerals),12.0
+209,euphemism,an inoffensive word or phrase used in place of one that is hurtful or harsh,81.0
+210,euphony,pleasant sound,65.0
+211,evanescent,vanishing,49.0
+212,exacerbate,to increase the harshness or bitterness of,76.0
+213,exasperate,to intensely irritate,53.0
+214,exculpate,to clear from blame,4.0
+215,exegesis,an explanation or critical interpretation (especially of the Bible),80.0
+216,exigent,urgent; demanding,78.0
+217,exonerate,to clear from blame,8.0
+218,exorbitant,greatly exceeding bounds of reason or moderation,85.0
+219,expatriate,"a person who lives outside his own country, often to renounce allegiance",79.0
+220,explicator,a person who explains or interprets,41.0
+221,explicit,clearly expressed or demonstrated,80.0
+222,exponent,one who explains or interprets,63.0
+223,expurgate,to revise by removing offensive text; to purify by cleansing,14.0
+224,extemporaneous,done without advance prepartion,44.0
+225,extol,to praise highly,57.0
+226,extraneous,not relevant or essential,69.0
+227,exuberant,"overflowing, especially with joy",73.0
+228,facetious,not intended to be taken seriously,82.0
+229,fallacy,a false idea,78.0
+230,fallible,capable of making mistake,78.0
+231,fallow,not in use,87.0
+232,fastidious,giving careful attention to detail; hard to please,63.0
+233,fatuous,foolish and silly,45.0
+234,fawn,to seek attention through flattery,84.0
+235,fecund,productive; fruitful,38.0
+236,felicity,pleasing and appropriate style; happiness,10.0
+237,fervid,hot or passionate,52.0
+238,fetid,stinky; smelling of decay,63.0
+239,flippant,disrespectful; lacking seriousness,70.0
+240,flotsam,"floating wreckage or useless, discarded items",51.0
+241,foible,a minor flaw or weakness of character,51.0
+242,fomentation,a push for trouble or rebellion,65.0
+243,foppish,affecting extreme elegance in dress and manner,32.0
+244,ford,a shallow portion of a river used for crossing,94.0
+245,formidable,causing fear due to powerful strength,50.0
+246,fortuitous,fortunate; by chance,83.0
+247,foster,to encourage or care for,73.0
+248,fractious,unruly; irritable,66.0
+249,frenetic,frantic,62.0
+250,frivolous,not serious; silly,79.0
+251,frugal,characterized by the avoidance of excessive spending,55.0
+252,fulminate,to explode loudly or to loudly pronounce,62.0
+253,furtive,sneaky,55.0
+254,gambol,to skip and frolic,65.0
+255,garner,to earn or to collect,70.0
+256,garrulous,excessively talkative or wordy,45.0
+257,genial,polite and friendly,83.0
+258,germane,related to; relevant,63.0
+259,glib,"fluent and talkative, often insincerely so",74.0
+260,glower,to stare with dislike or anger,72.0
+261,gradation,gradual or successive changes,80.0
+262,gratuitous,free; given without reason,79.0
+263,gregarious,sociable,63.0
+264,grievous,causing grief or very serious,45.0
+265,grovel,lowering oneself as in asking forgiveness or showing respect,69.0
+266,guile,a skillful deception,81.0
+267,gustatory,relating to the sense of taste,61.0
+268,hackneyed,repeated too often; overfamiliar through overuse,41.0
+269,halcyon,"joyful, peaceful, or prosperious",82.0
+270,hapless,unlucky,53.0
+271,harangue,"a long, pompous speech",35.0
+272,hedonist,a person dedicated to the pursuit of pleasure,57.0
+273,hegemony,leadership,65.0
+274,heretical,characteristic of an opinion at odds with accepted beliefs,44.0
+275,hermetic,isolated and protected,68.0
+276,histrionic,overly dramatic,81.0
+277,hoary,old or stale,47.0
+278,hubris,pride; arrogance,56.0
+279,husband,to manage wisely or thriftily,80.0
+280,iconoclast,a person who attacks cherished ideas or traditional institutions,65.0
+281,idiosyncrasy,a characteristic that is peculiar to a specific person,66.0
+282,ignoble,dishonorable; common,66.0
+283,ignominious,disgraceful and shameful,63.0
+284,illusory,creating illusions; deceiving,71.0
+285,imbue,to inspire,74.0
+286,immutable,unchangeable,82.0
+287,impasse,blacked progress; deadlock,83.0
+288,impecunious,poor,61.0
+289,imperturbable,calm; incapable of agitation,70.0
+290,impervious,not capable of being affected,70.0
+291,impetuous,impulsive,66.0
+292,impious,"lacking respect or devotion, usually for a god or religion",23.0
+293,implacable,incapable of being pacified or appeased,67.0
+294,implicit,implied though not directly expressed,69.0
+295,imprecation,a curse,18.0
+296,impugn,to attack as false or wrong,59.0
+297,impute,to attribute or credit it,54.0
+298,incarnadine,red or pink; flesh-colored,55.0
+299,inchoate,in the early stages of development,68.0
+300,incipient,beginning; just starting,73.0
+301,incontrovertible,unquestionable; impossible to deny,56.0
+302,incorrigible,incapable of being corrected or punished,76.0
+303,incredulous,skeptical; not willing to believe,64.0
+304,inculcate,to teach through persistent repetition,66.0
+305,indigenous,native to,37.0
+306,indignant,displaying anger due to unfairness,68.0
+307,indolent,lazy,65.0
+308,ineffable,incapable of being put into words,44.0
+309,inexorable,unyielding,73.0
+310,ingenious,clever and inventive,72.0
+311,ingenue,"an artless, innocent young girl (especially as portrayed on the stage)",60.0
+312,ingrate,an ungrateful person,66.0
+313,ingratiate,to put oneself in another's good graces,65.0
+314,inherent,existing as a natural and essential characteristic,61.0
+315,inimical,harmful or hostile,60.0
+316,iniquity,wickedness,59.0
+317,innocuous,harmless,74.0
+318,insidious,"intended to entrap, deceive, or harm",48.0
+319,insipid,"bland, dull, or uninteresting",71.0
+320,insolence,rudeness,73.0
+321,insular,narrow-minded; isolated,81.0
+322,insurrection,a rebellion or uprising,35.0
+323,inter,to bury,58.0
+324,interregnum,a period of time free from authority,72.0
+325,intractable,stubborn; difficult to manage,84.0
+326,intransigent,refusing to yield or compromise,50.0
+327,inundate,to flood,55.0
+328,inure,to become used to,76.0
+329,invective,violent criticism,65.0
+330,inveigle,to persuade with smooth talk,63.0
+331,investiture,ceremony for bestowing an official title,60.0
+332,invidious,"intended to hurt, offend, or discriminate",50.0
+333,invoke,to summon into action or bring into existence,87.0
+334,irascible,quickly aroused to anger,60.0
+335,itinerant,traveling from place to place to work,73.0
+336,jettison,to throw away,61.0
+337,jingoism,noisy and excessive patriotism for one's country,27.0
+338,jocular,characterized by joking,44.0
+339,jucture,a critical point in time,24.0
+340,juxtapose,to place side by side,70.0
+341,keen,"sharp as in a point, or sharp as in intelligence",77.0
+342,kindle,to light up or to excite,63.0
+343,kinetic,characterized by motion,74.0
+344,knell,sound of a bell at a funeral or a sign of looming death or destruction,74.0
+345,lachrymose,tearful; sad,59.0
+346,laconic,expressing much in few words,69.0
+347,lament,to express grief; to mourn,80.0
+348,lampoon,to mock in a satire,13.0
+349,languid,lacking in energy or spirit,79.0
+350,lapidary,relating to polished stones; characterized by exactness and extreme polishing,78.0
+351,largess,generous gift-giving,58.0
+352,lassitude,lack of energy; weariness,70.0
+353,latent,existing but not visible or obvious,84.0
+354,laud,"to praise, glorify, or honor",71.0
+355,lavish,very generous or extravagant,86.0
+356,legerdemain,trickery; sleight of hand,53.0
+357,levity,inappropriate lack of seriousness,82.0
+358,lexicography,the act of writing dictionaries,61.0
+359,liberate,free; unrestrained,70.0
+360,libertine,unrestrained by morals,88.0
+361,licentious,unrestrained by morals,61.0
+362,limpid,clear; calm,39.0
+363,lissome,flexible,44.0
+364,listless,lacking energy or spirit,78.0
+365,loquacious,extremely talkative,75.0
+366,lucid,clear; easy to understand,63.0
+367,lugubrious,excessively mournful; sad and gloomy,58.0
+368,luminous,radiating light; enlightening; easily understood,85.0
+369,machination,a crafty plot,59.0
+370,maelstrom,a powerful whirlpool or turbulent chaos,66.0
+371,magnanimous,noble and generous in spirit,50.0
+372,magnate,an important person in a field of business,75.0
+373,malediction,a curse,46.0
+374,malevolent,evil,37.0
+375,malice,a desire to make others suffer,72.0
+376,malinger,to fake an illness to avoid responsibility,17.0
+377,malleable,capable of being shaped or influenced,39.0
+378,malodorous,having an unpleasant smell,39.0
+379,mar,to make imperfect; to disfigure,75.0
+380,martial,relating to war,72.0
+381,martinet,a person who rigidly demands that rules are followed; a strict disciplinarian,53.0
+382,matriarch,the female head of a family,49.0
+383,maudlin,foolishly emotional,56.0
+384,maverick,a person who choose to be independent in behavior or thought,44.0
+385,melange,a mixtue,91.0
+386,mendacious,"lying, false, or untrue",23.0
+387,mendicant,begging,60.0
+388,mercurial,apt to change; volatile; lively,79.0
+389,meretricious,insincere; flashily attractive,44.0
+390,meritocracy,a form of social system in which power goes to those with superior abilities,48.0
+391,meticulous,extremely careful and precise with details,82.0
+392,militate,to have substantial influence,63.0
+393,mirth,laughter or merriment,72.0
+394,misanthrope,a person who hates and distrusts mankind,64.0
+395,miscreant,a person who is evil or villainous,65.0
+396,miser,a stingy person who lives in miserable conditions in order to save money,42.0
+397,missive,a letter,67.0
+398,mitigate,to make less intense or severe,83.0
+399,mollify,to soften or soothe,37.0
+400,molt,to shed feathers,79.0
+401,monastic,relating to monasteries or relating to a dedicated way of life,75.0
+402,morass,a swamp; difficult situation,50.0
+403,moratorium,suspension of an ongoing activity,49.0
+404,mores,important customs or beliefs of a group,77.0
+405,morose,gloomy,65.0
+406,multifarious,having many parts and much variety,55.0
+407,mundane,ordinary and somewhat boring,85.0
+408,munificent,very generous,48.0
+409,myopic,lacking long-term vision,46.0
+410,nadir,the lowest point,88.0
+411,naive,inexperienced and gullible,92.0
+412,narcissist,a person who has excessive love or admiration of oneself,83.0
+413,nascent,being born or beginning,68.0
+414,nebulous,vague or cloudy,6.0
+415,nefarious,extremely wicked,77.0
+416,neologism,a new word,43.0
+417,neophyte,a beginner,71.0
+418,nettle,to irritate,67.0
+419,nihilism,belief in the rejection of rules and the destruction of social and political order,45.0
+420,noisome,offensive (especially odors),59.0
+421,nominal,in name only; minimal,77.0
+422,noxious,harmful,88.0
+423,nuance,a subtle difference,87.0
+424,numismatic,pertaining to coins or medals,80.0
+425,obdurate,stubborn,55.0
+426,obfuscate,to confuse or make unclear,67.0
+427,oblique,slanting; not straight; indirect or evsive,66.0
+428,obscure,not clearly understood or expressed,86.0
+429,obsequious,overly flattering or obedient,71.0
+430,obstinate,extremely stubborn,76.0
+431,obstreperous,noisily defiant or aggressive,37.0
+432,obstructionist,a person who purposely blocks progress,53.0
+433,obtuse,intellectually slow; dull,76.0
+434,obviate,to prevent any perceived difficulty,73.0
+435,occlude,to shut or block,75.0
+436,odious,offensive; hateful,73.0
+437,officious,aggressively forward,74.0
+438,ominous,threatening or foreshadowing evil,83.0
+439,onerous,oppressive; burdensome,75.0
+440,opaque,not clear; not allowing light to pass through,84.0
+441,opine,to express an opinion,84.0
+442,opprobrium,disgrase or severe criticism due to shameful behavior,68.0
+443,opulent,rich and luxurious,72.0
+444,oration,a formal speech,63.0
+445,ornate,highly decorated,80.0
+446,orotund,a rich voice or pompous speech,22.0
+447,orthodox,customary; traditional,44.0
+448,ossify,to harden like bone; to become inflexible in habits or beliefs,50.0
+449,ostensible,pretended,78.0
+450,overt,open and observable; not secret or hidden,78.0
+451,overwrought,extremely excited or disturbed,36.0
+452,pacify,to calm; to bring peace,49.0
+453,paean,a song of praise,51.0
+454,palatial,like a palace; magnficient,59.0
+455,palliate,to relieve or lessen,58.0
+456,pallid,pale; lacking energy,68.0
+457,panacea,"a cure for all diseases, or a solution to all problems",81.0
+458,panache,"dashing style, flair, or manner",88.0
+459,panegyric,a formal expression of praise,50.0
+460,panoply,complete or impressive array,41.0
+461,paradox,a statement that contradicts itself but nevertheless may still be true,85.0
+462,paragon,a perfect example,91.0
+463,parenthetical,characterized by the use of parenthesis,62.0
+464,pariah,a person who is rejected; an outcast,61.0
+465,parley,to talk or confer,75.0
+466,parody,a humorous imitation,77.0
+467,parry,"to ward off, avoid, or evade",76.0
+468,parsimonious,extremely reluctant to spend money; frugal and stingy,61.0
+469,partisan,tending to favor one group or one way of thinking,47.0
+470,pastiche,"a work that is a mixture of styles, materials, or ources",80.0
+471,patriarch,the male head of a family,71.0
+472,paucity,an insufficient quantity or number,62.0
+473,peccadillo,a minor fault or sin,49.0
+474,pedagogical,relating to education or teaching,67.0
+475,pedantic,overly focused on small details while teaching or learning,75.0
+476,pejorative,a word that is derogatory or belittling,38.0
+477,penchant,a strong liking,77.0
+478,penitent,feeling or expressing remorse for misdeeds,72.0
+479,penurious,extremely reluctant to spend money; stingy and frugal or extremely poor,52.0
+480,peregrinate,to travel,10.0
+481,perfidious,tending to betray,16.0
+482,perfunctory,"done only as a matter of routine, with indifference and a lack of enthusiasm",61.0
+483,peripatetic,traveling about,25.0
+484,permeate,to spread throughout,71.0
+485,pernicious,exceedingly harmful,81.0
+486,perquisite,a payment or benefit in addition to one's regular pay,68.0
+487,perspicacity,intelligence manifested by being astute,47.0
+488,peruse,to read,78.0
+489,pervasive,spreading or spread throughout,80.0
+490,petulant,easily irritated over small issues,35.0
+491,phalanx,a closely massed group,74.0
+492,philanthropist,a person who makes charitable donations intended to increase human well-being,77.0
+493,philistine,"a person who resists culture, the arts, or intellectual pursuits",67.0
+494,phlegmatic,unemotional; calm,80.0
+495,picayune,small and of little importance,68.0
+496,pious,religiously devoted,82.0
+497,pith,the essential part,64.0
+498,pithy,brief but meaningful,68.0
+499,placid,calm,66.0
+500,platitude,remark repeated too often,73.0
+501,plebeian,of the common people; lacking sophistication,73.0
+502,plethora,overabundance,64.0
+503,pliant,capable of being bent or capable of being influenced,82.0
+504,plucky,brave,79.0
+505,polemical,controversial; causing oppositition,62.0
+506,politic,"ingenious, wise, or diplomatic",66.0
+507,polyglot,"able to speak, read, or write in many languages",83.0
+508,populist,a person who supports the rights and powers of the common people,61.0
+509,posit,to assume as fact; to put in place,82.0
+510,potentate,a powerful ruler,18.0
+511,pragmatic,practical; guided by practice rather than theory,85.0
+512,prattle,to babble,57.0
+513,precipitate,to bring about abruptly,71.0
+514,precis,a short summary,76.0
+515,precocious,advancement in development or maturity (especially in mental aptitude),75.0
+516,predilection,a preference,69.0
+517,prescience,knowledge of events before they happen,63.0
+518,pretense,a false act intending to deceieve,78.0
+519,prevaricate,to lie or deceieve,69.0
+520,pristine,"pure, clean, or unused",87.0
+521,probity,honesty and integrity,74.0
+522,proclivity,a natural tendency,67.0
+523,prodigal,recklessly wasteful or lavishly abundant,19.0
+524,prodigy,"a person, often a child, who is extraordinarily gifted or talented",30.0
+525,profligate,shamelessly immoral or recklessly wasteful,64.0
+526,progenitor,a direct ancestor or originator,74.0
+527,proletarian,of the working class,60.0
+528,proliferate,to grow rapidly,57.0
+529,propensity,a natural tendency,76.0
+530,propitiate,to calm or pacify,74.0
+531,propriety,accepted or appropriate standards,64.0
+532,prosaic,dull and lacking excitement,69.0
+533,proselytize,"to convert someone to another belief, religion, party, or cause",35.0
+534,provincial,unsophisticated and limited; associated with the country,78.0
+535,prudent,careful and sensible,71.0
+536,puerile,childish; immature,26.0
+537,pugilist,a person who fights with his fists; a boxer,60.0
+538,pugnacious,tending to quarrel or fight easily,63.0
+539,pulchritude,beauty,11.0
+540,punctilious,marked by precise accordance with details,72.0
+541,pundit,a critic or expert,69.0
+542,pungent,sharp; biting,83.0
+543,pusillanimous,timid; cowardly,28.0
+544,putrefy,to decay,26.0
+545,quaff,to drink a beverage,65.0
+546,quell,to put an end to,75.0
+547,querulous,complaining,49.0
+548,quiescent,being quiet or still or inactive,72.0
+549,quixotic,not sensible about practical matters; idealistic and unrealistic,58.0
+550,quotidian,daily or commonplace,14.0
+551,raconteur,a skilled storyteller,76.0
+552,raiment,clothes,53.0
+553,rancorous,showing deep-seated resentment,66.0
+554,raucous,unpleasantly loud and harsh,71.0
+555,raze,to tear down,75.0
+556,rebuke,to sharply criticize or reprimand,73.0
+557,rebut,to prove false using evidence,64.0
+558,recalcitrant,stubbornly resistant to authority or control,71.0
+559,recondite,difficult to understand without special knowledge,47.0
+560,redoubtable,worthy of fear and respect,65.0
+561,redress,to correct or to relieve,71.0
+562,refulgent,radiant; shining,46.0
+563,refute,to prove to be false; to deny as true,70.0
+564,rejoinder,a response,66.0
+565,relegate,to assign to a less important position; to demote,74.0
+566,remiss,careless and neglectful,81.0
+567,remuneration,payment,87.0
+568,renounce,to give up; to turn away from,63.0
+569,repast,a meal,56.0
+570,replete,filled; complete,75.0
+571,repose,state of calmness; peace,56.0
+572,reprehensible,deserving of punishment,62.0
+573,reproach,to blame; to express criticism towards,79.0
+574,repudiate,to reject,70.0
+575,repugnant,offensive,47.0
+576,requite,to repay or retaliate,63.0
+577,rescind,to revoke or repeal,34.0
+578,restive,nervous; restless; impatient with authority,68.0
+579,reticent,inclined to keep quiet and private,66.0
+580,revere,to regard with respect and love,86.0
+581,reviler,a person who uses abusive language,36.0
+582,rhapsodize,to talk with great enthusiasm,46.0
+583,rhetoric,skill in using language to persuade; empty talk,45.0
+584,ribald,vulgar,67.0
+585,rococo,"ornate style in language, music, etc.",82.0
+586,sacrosanct,sacred; not to be criticized or violated,66.0
+587,sagacious,acutely insightful and wise,57.0
+588,sage,a person who is very wise,88.0
+589,salient,easily observable; prominent,83.0
+590,salubrious,healthy; wholesome,74.0
+591,sanctimonious,being hypocritically religious or righteous,53.0
+592,sanguine,confidently optimistic and cheerful,62.0
+593,sardonic,characterized by bitter mocking,78.0
+594,satiate,to fill to satisfaction,63.0
+595,schism,division of a group into opposing factions,62.0
+596,scintillating,brilliantly clever or flashy and exciting,30.0
+597,scoff,to laugh at and show open disrespect,75.0
+598,scrupulous,abiding by morals or strict rules,77.0
+599,sedition,instigation of rebellion,45.0
+600,sedulous,marked by care and persistent effort,62.0
+601,sentient,experiencing sense perception and consciousness,80.0
+602,seraphic,of an angel or celestial being,73.0
+603,sibilant,having a hissing sound,53.0
+604,sinecure,a paid job with little work,58.0
+605,slake,"to relieve thirst, hunger, desire, etc.; to make less intense",69.0
+606,sobriquet,a nickname,50.0
+607,solecism,"an error, especially in grammar",33.0
+608,solicitious,"anxious, eager, or worried",36.0
+609,solvent,able to meet financial obligations,76.0
+610,somnolent,sleepy or drowsy,74.0
+611,sonorous,"full and loud and deep, as a sound",81.0
+612,sophistry,a false argument meant to trick someone,58.0
+613,soporific,tending to make sleepy or drowsy,48.0
+614,Spartan,strict; simple; serious,89.0
+615,specious,1. plausible but false 2. deceptively pleasing,53.0
+616,sportive,playful,85.0
+617,spurious,false; not legitimate,75.0
+618,squalid,filthy and repulsive,41.0
+619,stasis,state of inaction or lack of progress,90.0
+620,stentorian,very loud,49.0
+621,stevedore,a laborer who loads and unloads vessels in a port,68.0
+622,stifle,to stop or hold back,75.0
+623,stigma,a mark of disgrace,82.0
+624,stoic,free from emotion; unmoved,89.0
+625,stolid,unemotional; unmoved,60.0
+626,stricture,a criticism,78.0
+627,stultify,"to make one appear foolish, stupid, or useless",55.0
+628,stymie,to stump or hinder,34.0
+629,sublime,of high value; supreme,92.0
+630,subterfuge,something intended to deceive,78.0
+631,subtle,difficult to detect,88.0
+632,subversive,supporting the overthrowing of a government,72.0
+633,succinct,expressed in few words; concise,81.0
+634,sully,to make dirty or unpure,41.0
+635,supercilious,arrogantly disdainful,58.0
+636,superfluous,having more than needed or wanted; excessive,79.0
+637,supplant,to replace or take the place of,43.0
+638,surfeit,surplus; extra,42.0
+639,surly,bad tempered or rude,76.0
+640,surreptitious,stealthy and secret,72.0
+641,sybarite,a person devoted to luxury,47.0
+642,sycophant,a person who flatters others in order to gain personal favor;a brown-noser,57.0
+643,symbiosis,a mutually beneficial relationship,41.0
+644,syncopated,to cut short; to accent beats that are not usually accented,66.0
+645,tacit,unspoken and implied,71.0
+646,taciturn,silent; not willing to talk,64.0
+647,tawdry,gaudy and cheap,67.0
+648,temerity,fearless daring,47.0
+649,temperate,moderate; not extreme,71.0
+650,tenacious,unyielding; stubborn,63.0
+651,toady,a person who flatters others in order to gain personal favor; a brown-noser,68.0
+652,tome,"a long, heavy book",91.0
+653,torpid,sluggish; lacking energy,47.0
+654,transient,passing quickly or staying briefly,88.0
+655,treacly,overly sweet or sentimental,31.0
+656,trenchant,"keen, cutting, or energetic",60.0
+657,trite,repeated too often; over familiar through overuse,73.0
+658,truculence,brutal cruelty and aggressiveness,46.0
+659,truncated,shortened by cutting off a part,87.0
+660,turgid,pompous or swollen,80.0
+661,turpitude,"vile, shameful behavior",76.0
+662,tyro,a beginner,75.0
+663,ubiquitious,existing everywhere at once; omnipresent,53.0
+664,umbrage,offensive; displeasure,66.0
+665,unctuous,unpleasantly and excessively suave,53.0
+666,untenable,impossible to defend,67.0
+667,upbraid,to criticize severely,42.0
+668,usury,the practice of lending money at an extremely high interest rate,69.0
+669,vacillate,to waver or move back and forth,65.0
+670,vainglorious,feeling excessive self-importance or pride for one's own accomplishments,30.0
+671,venerated,highly respected,66.0
+672,veracity,honesty; truthfulness,79.0
+673,verbose,using or containing too many words,79.0
+674,verdant,green with color or green with inexperience,55.0
+675,verisimilitude,the appearance of truth; the quality of seeming to be true,70.0
+676,vestige,a small trace,60.0
+677,vicissitude,a change or variation,68.0
+678,vim,energy and enthusiasm; vitality,90.0
+679,virtuoso,a person who has mastered a certain skill or field,82.0
+680,viscous,sticky; thick,83.0
+681,vitiate,to make imperfect; to corrupt,70.0
+682,vitriolic,harsh or corrosive in tone,33.0
+683,vituperate,to use abusive language,49.0
+684,vociferous,marked by loud outcry,69.0
+685,voluble,talkative or fluent with words,76.0
+686,wane,to grow smaller,53.0
+687,wanton,unrestrained; immoral; unjustified,64.0
+688,whimsical,characterized by carefree impulses,83.0
+689,wily,sly and cunning,71.0
+690,wistful,expressing longing or yearning,79.0
+691,wizened,shriveled,35.0
+692,wraith,a ghost,58.0
+693,zealous,enthusiastic and devoted,85.0
+694,zenith,the highest point,74.0
+695,zephyr,a soft breeze,91.0
